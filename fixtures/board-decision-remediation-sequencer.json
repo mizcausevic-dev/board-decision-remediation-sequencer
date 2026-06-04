@@ -1,0 +1,278 @@
+[
+  {
+    "id": "ai-governance-remediation",
+    "lane": "AI governance approval collapse",
+    "track": "AI_GOVERNANCE",
+    "action": "SIMPLIFY",
+    "sequenceTier": "IMMEDIATE",
+    "sequenceTheme": "Approval-path simplification",
+    "boardQuestion": "Which AI governance cleanup move should go first so policy drag stops compounding before the next board cycle?",
+    "owner": "Chief AI Officer",
+    "audience": "Board technology committee",
+    "currentPosture": "The policy stack is credible, but three approval hops still slow every remediation packet that crosses product, risk, and security.",
+    "sequenceNarrative": "The quickest gain is collapsing approval hops before adding another artifact to the packet.",
+    "operatingReality": "Policy changes still bounce between owners even when the actual control change is already understood.",
+    "riskHeadline": "Approval drag is burning cycle time faster than proof quality is improving.",
+    "blockingIssue": "Final remediation owner is not explicit enough between product, risk, and security.",
+    "evidenceArtifacts": [
+      "ai-governance-agent-readiness-scorecard",
+      "governance-registry",
+      "executive-board-brief"
+    ],
+    "dependencyMoves": [
+      "collapse policy sign-offs",
+      "publish one final remediation owner",
+      "bind one approval threshold"
+    ],
+    "relatedSurfaces": [
+      "governance.kineticgain.com",
+      "registry.kineticgain.com",
+      "boardbrief.kineticgain.com"
+    ],
+    "companyTags": [
+      "OpenAI",
+      "Anthropic",
+      "Azure"
+    ],
+    "dependencyLoadScore": 72,
+    "ownerReadinessScore": 63,
+    "executionWindowScore": 74,
+    "dragContainmentScore": 59,
+    "decisionAgeDays": 19,
+    "sequenceReadinessScore": 61,
+    "recoverableValueMillions": 12,
+    "headline": "AI governance needs one simpler remediation chain before more proof work lands.",
+    "narrative": "This lane should simplify approvals first, then add any remaining proof deltas behind one accountable owner.",
+    "nextMove": "Collapse the approval path to one final owner and one board-visible threshold."
+  },
+  {
+    "id": "procurement-proof-bundle",
+    "lane": "Procurement proof-bundle reset",
+    "track": "PROCUREMENT_TRUST",
+    "action": "STANDARDIZE",
+    "sequenceTier": "NEXT",
+    "sequenceTheme": "Proof bundle standardization",
+    "boardQuestion": "Which trust remediation motion removes the most repeated diligence work without opening another standards debate?",
+    "owner": "Chief Commercial Officer",
+    "audience": "Board growth committee",
+    "currentPosture": "The answer pattern is known, but the reusable proof bundle still lives in too many formats and owner lanes.",
+    "sequenceNarrative": "The fastest gain is one canonical proof bundle before deeper automation work.",
+    "operatingReality": "Questionnaires and diligence packets still rebuild too much trust proof by hand.",
+    "riskHeadline": "The remediation motion will stay expensive until proof reuse is standardized first.",
+    "blockingIssue": "Trust evidence is still spread across too many repos and owner groups.",
+    "evidenceArtifacts": [
+      "security-questionnaire-answer-studio",
+      "trust-center-evidence-room",
+      "security-control-evidence-binder"
+    ],
+    "dependencyMoves": [
+      "publish one canonical bundle",
+      "retire duplicate packet variants",
+      "bind proof to one owner"
+    ],
+    "relatedSurfaces": [
+      "questionnaire.kineticgain.com",
+      "controls.kineticgain.com",
+      "procurement.kineticgain.com"
+    ],
+    "companyTags": [
+      "Vanta",
+      "Drata",
+      "Okta"
+    ],
+    "dependencyLoadScore": 64,
+    "ownerReadinessScore": 73,
+    "executionWindowScore": 61,
+    "dragContainmentScore": 63,
+    "decisionAgeDays": 27,
+    "sequenceReadinessScore": 58,
+    "recoverableValueMillions": 9,
+    "headline": "Procurement should standardize the proof bundle before trying to automate around it.",
+    "narrative": "The board story is cleaner if one canonical bundle exists before more process gets layered around diligence responses.",
+    "nextMove": "Publish one canonical proof bundle with one evidence index and one accountable owner."
+  },
+  {
+    "id": "biotech-release-closeout",
+    "lane": "Biotech release closeout path",
+    "track": "BIOTECH_DIAGNOSTICS",
+    "action": "CONTAIN",
+    "sequenceTier": "IMMEDIATE",
+    "sequenceTheme": "Late-stage containment",
+    "boardQuestion": "Which remediation move prevents a late-stage biotech handoff from reopening release work after it looks ready?",
+    "owner": "Quality systems lead",
+    "audience": "Board compliance committee",
+    "currentPosture": "The release path is documented, though the closeout chain still leaves room for late-stage reversal.",
+    "sequenceNarrative": "Contain the last handoff first; deeper redesign can wait until the release path stops reopening.",
+    "operatingReality": "Deviation, specimen, and change-control packets still depend on manual cross-owner confirmation at the end.",
+    "riskHeadline": "A late evidence gap can still unwind the motion after it looks approved.",
+    "blockingIssue": "The last two handoffs still rely on manual interpretation instead of one bound closeout threshold.",
+    "evidenceArtifacts": [
+      "batch-deviation-capa-ledger",
+      "specimen-chain-of-custody-console",
+      "gxp-change-control-board"
+    ],
+    "dependencyMoves": [
+      "bind the final closeout threshold",
+      "force one closeout owner",
+      "separate readiness from exception narrative"
+    ],
+    "relatedSurfaces": [
+      "capa.kineticgain.com",
+      "specimen.kineticgain.com",
+      "gxp.kineticgain.com"
+    ],
+    "companyTags": [
+      "LabVantage",
+      "Veeva",
+      "MasterControl"
+    ],
+    "dependencyLoadScore": 77,
+    "ownerReadinessScore": 67,
+    "executionWindowScore": 54,
+    "dragContainmentScore": 48,
+    "decisionAgeDays": 34,
+    "sequenceReadinessScore": 46,
+    "recoverableValueMillions": 18,
+    "headline": "Biotech needs a containment-first remediation sequence, not another broad redesign memo.",
+    "narrative": "One explicit closeout threshold and one owner can prevent the release path from reopening in the last mile.",
+    "nextMove": "Bind the final closeout threshold to one owner and remove the last manual interpretation hop."
+  },
+  {
+    "id": "fintech-control-sequencing",
+    "lane": "FinTech controls sequencing",
+    "track": "FINTECH_CONTROLS",
+    "action": "SIMPLIFY",
+    "sequenceTier": "NEXT",
+    "sequenceTheme": "Packet simplification",
+    "boardQuestion": "Which control remediation motion should be peeled out first so the committee is not carrying too much scope in one packet?",
+    "owner": "Chief Risk Officer",
+    "audience": "Board finance committee",
+    "currentPosture": "The controls packet is credible, but it still bundles too many adjacent changes into one remediation window.",
+    "sequenceNarrative": "The biggest gain is splitting scope before asking for more review capacity.",
+    "operatingReality": "KYC, merchant review, and treasury signals are tied together in ways that slow final sign-off.",
+    "riskHeadline": "Over-bundled scope is the main sequencing failure in this lane.",
+    "blockingIssue": "The committee is being asked to clear too many control changes at once.",
+    "evidenceArtifacts": [
+      "kyc-refresh-case-router",
+      "merchant-risk-review-console",
+      "treasury-liquidity-signal-lab"
+    ],
+    "dependencyMoves": [
+      "split the packet",
+      "sequence the control changes",
+      "approve the highest-value slice first"
+    ],
+    "relatedSurfaces": [
+      "kyc.kineticgain.com",
+      "merchant.kineticgain.com",
+      "treasury.kineticgain.com"
+    ],
+    "companyTags": [
+      "Stripe",
+      "Plaid",
+      "Adyen"
+    ],
+    "dependencyLoadScore": 58,
+    "ownerReadinessScore": 74,
+    "executionWindowScore": 62,
+    "dragContainmentScore": 66,
+    "decisionAgeDays": 16,
+    "sequenceReadinessScore": 67,
+    "recoverableValueMillions": 15,
+    "headline": "FinTech should simplify the packet before asking for another committee sweep.",
+    "narrative": "The route is not blocked by proof. It is blocked by trying to move too many controls at once.",
+    "nextMove": "Split the packet into one committee-ready slice and one sequenced follow-on motion."
+  },
+  {
+    "id": "platform-cutover-owner-reset",
+    "lane": "Platform cost-takeout cutover",
+    "track": "PLATFORM_ENGINEERING",
+    "action": "RESET_OWNER",
+    "sequenceTier": "QUEUE",
+    "sequenceTheme": "Owner reset",
+    "boardQuestion": "Which platform remediation motion is blocked because no single owner is carrying the full cutover chain?",
+    "owner": "Platform engineering lead",
+    "audience": "Board operating committee",
+    "currentPosture": "The savings thesis is accepted, though the cutover path still has too many dependent milestones floating across teams.",
+    "sequenceNarrative": "Do not accelerate this lane until one owner owns the milestone chain and rollback rule.",
+    "operatingReality": "The cost motion spans infra, identity, and vendor renewals with too many dependent milestones still floating.",
+    "riskHeadline": "Owner ambiguity is keeping this remediation motion in queue.",
+    "blockingIssue": "The cutover packet still lacks one authoritative milestone chain and rollback rule.",
+    "evidenceArtifacts": [
+      "board-cost-takeout-command-center",
+      "board-capital-reallocation-brief",
+      "identity-cost-drift-brief"
+    ],
+    "dependencyMoves": [
+      "publish one milestone chain",
+      "bind rollback thresholds",
+      "assign one cutover owner"
+    ],
+    "relatedSurfaces": [
+      "takeout.kineticgain.com",
+      "reallocate.kineticgain.com",
+      "identity.kineticgain.com"
+    ],
+    "companyTags": [
+      "Azure",
+      "AWS",
+      "Okta"
+    ],
+    "dependencyLoadScore": 69,
+    "ownerReadinessScore": 49,
+    "executionWindowScore": 52,
+    "dragContainmentScore": 57,
+    "decisionAgeDays": 23,
+    "sequenceReadinessScore": 51,
+    "recoverableValueMillions": 22,
+    "headline": "Platform cost takeout needs an owner reset before the board asks for faster execution.",
+    "narrative": "The cutover path exists, but no single owner is carrying the full milestone chain from approval to rollback.",
+    "nextMove": "Assign one cutover owner and publish one authoritative milestone chain with rollback thresholds."
+  },
+  {
+    "id": "nonprofit-proof-refresh",
+    "lane": "Nonprofit proof refresh cadence",
+    "track": "NONPROFIT_OPERATIONS",
+    "action": "AUTOMATE",
+    "sequenceTier": "WATCH",
+    "sequenceTheme": "Cadence automation",
+    "boardQuestion": "Which nonprofit remediation motion should stay in watch mode until a lightweight automation step can preserve proof freshness?",
+    "owner": "Executive director",
+    "audience": "Board stewardship committee",
+    "currentPosture": "The lane is stable and the owner path is clear, though evidence refresh still relies on manual cadence discipline.",
+    "sequenceNarrative": "This is not an emergency remediation motion. It is a watch lane that benefits from a small automation step when capacity opens up.",
+    "operatingReality": "Outcome proof, donor stewardship, and appeals pacing all resolve through one coherent operating packet.",
+    "riskHeadline": "The lane is healthy, but a missed refresh cadence could still create quiet drift.",
+    "blockingIssue": "Evidence refresh timing could drift if stewardship updates stop landing on the same cadence.",
+    "evidenceArtifacts": [
+      "program-outcome-proof-ledger",
+      "donor-stewardship-ops-console",
+      "campaign-appeal-fatigue-monitor"
+    ],
+    "dependencyMoves": [
+      "keep quarterly refresh cadence",
+      "add one lightweight reminder automation",
+      "publish one donor-facing summary packet"
+    ],
+    "relatedSurfaces": [
+      "outcomes.kineticgain.com",
+      "stewardship.kineticgain.com",
+      "appeals.kineticgain.com"
+    ],
+    "companyTags": [
+      "Salesforce",
+      "HubSpot",
+      "Mailchimp"
+    ],
+    "dependencyLoadScore": 28,
+    "ownerReadinessScore": 84,
+    "executionWindowScore": 81,
+    "dragContainmentScore": 79,
+    "decisionAgeDays": 11,
+    "sequenceReadinessScore": 83,
+    "recoverableValueMillions": 6,
+    "headline": "Nonprofit proof refresh is a watch lane, not a fire drill.",
+    "narrative": "This is the model lane: one owner, one packet, and one small automation step when capacity becomes available.",
+    "nextMove": "Keep the quarterly cadence and add one lightweight reminder automation before the next appeal cycle."
+  }
+]
